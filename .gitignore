@@ -1,0 +1,15 @@
+# Idea Related
+.idea
+
+# Melos Related
+*.iml
+
+# Coverage Related
+**/coverage/
+
+# Yarn Related
+node_modules/
+
+# Hive Related
+*.hive
+*storage.lock
